@@ -43,9 +43,9 @@ melody = \relative c'' {
 %mm17
   bes2. ~ bes4. f'4 
 %mm18
-  
+  bes2. ~ bes4. f4
 %mm19
-
+  
 %mm20
 }
 
@@ -93,6 +93,7 @@ upper = \relative c'' {
 %mm16
   < g ees c g ees c >2\arpeggio ~ < g ees c g ees c >8
   < f c a f c >2.\arpeggio
+  }
 %mm17
   r4 c,8 des < ees g >4 r4 c8 des < ees g>8
 %mm18
@@ -100,7 +101,7 @@ upper = \relative c'' {
 %mm19
 
 %mm20
-}
+
 }
 
 lower = \relative c {
